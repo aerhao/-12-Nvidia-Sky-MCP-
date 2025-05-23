@@ -1,0 +1,199 @@
+The chart is color-coded to distinguish between different categories:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here is the underlying data table of the chart:
+
+| Country/Region | 2023 GDP Grow | 4 | 
+|---|---|
+| India          | 8.4 |  |
+| |  |
+|
+|
+| China          |  | |
+|
+|
+| China     |
+|
+|
+| United Kingdom | +0.1 |
+| Germany        | +0.7 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+| United Kingdom | +0.1 |
+| United States  | +0.7 |
+<|assistant|>
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
